@@ -1,4 +1,4 @@
-# WPScan Script powered by Plesk
+# WPScan powered by Plesk
 
 Scan script for a quick security check of all installed WordPress instances on a Linux server!
 
@@ -13,6 +13,8 @@ Scan script for a quick security check of all installed WordPress instances on a
 `wpscan`
 
 That's it!
+
+![WPScan powered by Plesk](https://raw.githubusercontent.com/plesk/wpscan/master/wpscan-screenshot.png)
 
 ## How to fix
 
