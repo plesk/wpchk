@@ -3,7 +3,7 @@
 set -e
 
 if [ `id -u` -ne 0 ]; then
-    echo "Error! You must have super user privileges (root) to install the WPScan script powered by Plesk." >&2
+    echo "Error! You must have super user privileges (root) to install the WPscan script powered by Plesk." >&2
 
     exit 1
 fi
@@ -12,4 +12,4 @@ curl https://raw.githubusercontent.com/plesk/wpscan/master/wpscan.phar -o /usr/l
 
 chmod +x /usr/local/bin/wpscan
 
-echo "Success! The WPScan script powered by Plesk has been installed. Now run it with 'wpscan'."
+echo "Success! The WPscan script powered by Plesk has been installed. Now run it with 'wpscan'."
