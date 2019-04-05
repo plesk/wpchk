@@ -23,11 +23,11 @@ That's it!
 
 `wpscan --help`
 
-Display the help page.
+Displays the help page.
 
 `wpscan --json`
 
-Output scan results in the JSON format.
+Outputs scan results in the JSON format.
 
 ## How to fix
 
