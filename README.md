@@ -19,3 +19,5 @@ That's it!
 ## How to fix
 
 Get the WordPress Toolkit to fix all issues with one click and stay always up-to-date & secure: https://www.plesk.com/wp-toolkit/
+
+If you have any questions or feedback, please don't hesitate to contact us: wpscan@plesk.com
