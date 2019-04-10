@@ -1,6 +1,9 @@
 # WPscan powered by Plesk
 
-Scan script for a quick security check of all installed WordPress instances on a Linux server!
+Plesk WPscan is a WordPress Security checker tool to analyze the security status of all WordPress instances on a Linux server.
+
+It will not make any changes, but display security issues found for each of the found WordPress instances.
+We are happy to receive your feedback at wpscan@plesk.com.
 
 ## How to use
 
@@ -15,6 +18,16 @@ Scan script for a quick security check of all installed WordPress instances on a
 That's it!
 
 ![WPscan powered by Plesk](https://raw.githubusercontent.com/plesk/wpscan/master/wpscan-screenshot.png)
+
+### Additional options
+
+`wpscan --help`
+
+Displays the help page.
+
+`wpscan --json`
+
+Outputs scan results in the JSON format.
 
 ## How to fix
 
