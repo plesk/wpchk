@@ -37,4 +37,4 @@ If you have any questions or feedback, please don't hesitate to contact us: wpsc
 
 ## License
 
-Licensed under the Plesk Software License. You may obtain a copy of the License at https://github.com/plesk/wpscan/blob/master/LICENSE.
+Licensed under the Plesk Software License. You may obtain a copy of the License at https://github.com/plesk/wpscan/blob/master/LICENSE.md.
