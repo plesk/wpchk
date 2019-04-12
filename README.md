@@ -3,7 +3,7 @@
 Plesk WPchk is a WordPress Security checker tool to analyze the security status of all WordPress instances on a Linux server.
 
 It will not make any changes, but display security issues found for each of the found WordPress instances.
-We are happy to receive your feedback at wpscan@plesk.com.
+We are happy to receive your feedback at wpchk@plesk.com.
 
 ## How to use
 
@@ -17,7 +17,7 @@ We are happy to receive your feedback at wpscan@plesk.com.
 
 That's it!
 
-![WPchk powered by Plesk](https://raw.githubusercontent.com/plesk/wpchk/master/wpscan-screenshot.png)
+![WPchk powered by Plesk](https://raw.githubusercontent.com/plesk/wpchk/master/wpchk-screenshot.png)
 
 ### Additional options
 
@@ -37,7 +37,7 @@ Outputs scan results in the JSON format.
 
 Get the WordPress Toolkit to fix all issues with one click and stay always up-to-date & secure: https://www.plesk.com/wp-toolkit/
 
-If you have any questions or feedback, please don't hesitate to contact us: wpscan@plesk.com
+If you have any questions or feedback, please don't hesitate to contact us: wpchk@plesk.com
 
 ## License
 
