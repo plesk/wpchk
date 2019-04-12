@@ -13,7 +13,7 @@ We are happy to receive your feedback at wpscan@plesk.com.
 
 2. Run the script with this command:
 
-`wpscan`
+`wpchk`
 
 That's it!
 
