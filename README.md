@@ -33,6 +33,10 @@ Updates WPchk to the latest version to include latest security checks.
 
 Outputs scan results in the JSON format.
 
+`wpchk --version`
+
+Shows WPchk version.
+
 ## How to fix
 
 Get the WordPress Toolkit to fix all issues with one click and stay always up-to-date & secure: https://www.plesk.com/wp-toolkit/
