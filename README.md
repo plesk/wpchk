@@ -9,15 +9,15 @@ We are happy to receive your feedback at wpchk@plesk.com.
 
 1. Download and install the standalone script using this command in your terminal:
 
-`sh <(curl https://raw.githubusercontent.com/plesk/wpchk/master/installer)`
+   `curl https://raw.githubusercontent.com/plesk/wpchk/master/installer > wpchk-installer && sh wpchk-installer`
 
 2. Run the script with this command:
 
-`wpchk`
+   `wpchk`
 
 That's it!
 
-![WPchk powered by Plesk](https://raw.githubusercontent.com/plesk/wpchk/master/wpchk-screenshot.png)
+![WPchk powered by Plesk](screenshot.png)
 
 ### Additional options
 
@@ -39,10 +39,10 @@ Shows WPchk version.
 
 ## How to fix
 
-Get the WordPress Toolkit to fix all issues with one click and stay always up-to-date & secure: https://www.plesk.com/wp-toolkit/
+Get the WordPress Toolkit to fix all issues with one click and stay always up-to-date & secure: <https://www.plesk.com/wp-toolkit/>.
 
-If you have any questions or feedback, please don't hesitate to contact us: wpchk@plesk.com
+If you have any questions or feedback, please don't hesitate to contact us: wpchk@plesk.com.
 
 ## License
 
-Licensed under the Plesk Software License. You may obtain a copy of the License at https://github.com/plesk/wpchk/blob/master/LICENSE.md.
+Licensed under the Plesk Software License. You may obtain a copy of the License at <https://github.com/plesk/wpchk/blob/master/LICENSE.md>.
