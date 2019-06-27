@@ -21,21 +21,25 @@ That's it!
 
 ### Additional options
 
+Displays the help page:
+
 `wpchk --help`
 
-Displays the help page.
+Updates WPchk to the latest version to include latest security checks:
 
 `wpchk --update`
 
-Updates WPchk to the latest version to include latest security checks.
+Outputs scan results in the JSON format:
 
 `wpchk --json`
 
-Outputs scan results in the JSON format.
+Scan specific path only (can also be combined with `--json`):
+
+`wpchk --path=/var/www/vhosts/example.com`
+
+Shows WPchk version:
 
 `wpchk --version`
-
-Shows WPchk version.
 
 ## How to fix
 
