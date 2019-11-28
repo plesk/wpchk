@@ -47,6 +47,10 @@ Get the WordPress Toolkit to fix all issues with one click and stay always up-to
 
 If you have any questions or feedback, please don't hesitate to contact us: wpchk@plesk.com.
 
+## Technical Requirements
+
+The minimum required PHP version is 5.4 due to WP-CLI dependency.
+
 ## License
 
 Licensed under the Plesk Software License. You may obtain a copy of the License at <https://github.com/plesk/wpchk/blob/master/LICENSE.md>.
